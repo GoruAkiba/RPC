@@ -8,6 +8,7 @@
   </p>
   <p>
     <a href="https://nodei.co/npm/discord-rpc/"><img src="https://nodei.co/npm/discord-rpc.png?downloads=true&stars=true" alt="NPM info" /></a>
+		[![Run on Repl.it](https://repl.it/badge/github/discordjs/RPC)](https://repl.it/github/discordjs/RPC)
   </p>
 </div>
 
